@@ -1,0 +1,4 @@
+Throws when an application tries to load in a class through a string name using
+1.forName of Class
+2.findSystemClass of ClassLoader
+3.loadClass of ClassLoader
